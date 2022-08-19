@@ -1,11 +1,11 @@
-Full Site Federation eCommerce Example
+eCommerce Example
 ===============================================
 
 An example eCommerce app Module Federation in a Full Site Federation configuration, using [react-router-dom](https://www.npmjs.com/package/react-router-dom) to manage the routing.
 
 # Installation
 
-In these five directories; `addtocart`, `cart`, `home`, `pdp` and `server` run these commands:
+In these **five directories**; `addtocart`, `cart`, `home`, `pdp` and `server` run these commands:
 
 ```sh
 yarn && yarn start
